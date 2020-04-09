@@ -8,31 +8,24 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Danilo\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/home/facu/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Danilo\\Desktop\\Proyectos\\Cliente-Servidor\\TP1-Git-2020\\grupo2\\grupo2.csproj",
+      "projectUniqueName": "/home/facu/Desktop/TP1-Git-2020/grupo2/grupo2.csproj",
       "projectName": "grupo2",
-      "projectPath": "C:\\Users\\Danilo\\Desktop\\Proyectos\\Cliente-Servidor\\TP1-Git-2020\\grupo2\\grupo2.csproj",
-      "packagesPath": "C:\\Users\\Danilo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Danilo\\Desktop\\Proyectos\\Cliente-Servidor\\TP1-Git-2020\\grupo2\\obj\\",
+      "projectPath": "/home/facu/Desktop/TP1-Git-2020/grupo2/grupo2.csproj",
+      "packagesPath": "/home/facu/.nuget/packages/",
+      "outputPath": "/home/facu/Desktop/TP1-Git-2020/grupo2/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Danilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/home/facu/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -63,7 +56,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
       }
     }
   }
