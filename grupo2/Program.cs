@@ -10,6 +10,10 @@ namespace grupo2
             string mensaje;
             mensaje = escribir();
             Console.WriteLine(mensaje);
+
+            string mensaje1;
+            mensaje1 = minusculas("TEXTO EN MAYUSCULAS");
+            Console.WriteLine(mensaje1);
         }
 
         static string escribir()
@@ -18,6 +22,11 @@ namespace grupo2
             Console.WriteLine("ingrese el mensaje");
             mensaje = Console.ReadLine();
             return mensaje;
+        }
+
+        public static string minusculas(string cadena){
+            string salida = cadena.ToLower();
+            return salida; 
         }
     }
 }
