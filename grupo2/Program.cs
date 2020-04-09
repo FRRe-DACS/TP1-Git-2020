@@ -13,7 +13,6 @@ namespace grupo2
             mensaje = Console.ReadLine();
             return mensaje;
         }
-<<<<<<< HEAD
 
         static string transformarUppercase(string palabra){
             return palabra.ToUpper();
@@ -31,13 +30,11 @@ namespace grupo2
         
         }
    
-=======
         static public int Add(int x, int y)//Alejandro Nadal
         { 
             int result = x + y;
             return result;
         }
->>>>>>> g2/principal
     }
 
 }
