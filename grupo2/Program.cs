@@ -48,6 +48,11 @@ namespace grupo2
             int result = x * y;
             return result;
         }
+        static int Resta(int x, int y) //Juan Cruz
+        {
+            int result = x - y;
+            return result;
+        }
     }
 
 }
