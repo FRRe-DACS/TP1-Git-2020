@@ -6,6 +6,8 @@ namespace Grupo1
     {
         static void Main(string[] args)
         {
+            var c1 = new Carlos();
+            Console.WriteLine($"Hello, {c1.ReturnMessage()}");
             Console.WriteLine("Batman es el mejor");
         }
     }
