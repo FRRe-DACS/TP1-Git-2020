@@ -29,5 +29,10 @@ namespace grupo2
             string salida = cadena.ToLower();
             return salida; 
         }
+        static public int Add(int x, int y)//Alejandro Nadal
+        { 
+            int result = x + y;
+            return result;
+        }
     }
 }
