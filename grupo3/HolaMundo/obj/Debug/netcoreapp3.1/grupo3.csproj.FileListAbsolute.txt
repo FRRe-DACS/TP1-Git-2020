@@ -1,0 +1,13 @@
+/home/martinejaw/Documentos/CLIENTE-SERVIDOR/TP1-Git-2020/grupo3/HolaMundo/bin/Debug/netcoreapp3.1/grupo3
+/home/martinejaw/Documentos/CLIENTE-SERVIDOR/TP1-Git-2020/grupo3/HolaMundo/bin/Debug/netcoreapp3.1/grupo3.deps.json
+/home/martinejaw/Documentos/CLIENTE-SERVIDOR/TP1-Git-2020/grupo3/HolaMundo/bin/Debug/netcoreapp3.1/grupo3.runtimeconfig.json
+/home/martinejaw/Documentos/CLIENTE-SERVIDOR/TP1-Git-2020/grupo3/HolaMundo/bin/Debug/netcoreapp3.1/grupo3.runtimeconfig.dev.json
+/home/martinejaw/Documentos/CLIENTE-SERVIDOR/TP1-Git-2020/grupo3/HolaMundo/bin/Debug/netcoreapp3.1/grupo3.dll
+/home/martinejaw/Documentos/CLIENTE-SERVIDOR/TP1-Git-2020/grupo3/HolaMundo/bin/Debug/netcoreapp3.1/grupo3.pdb
+/home/martinejaw/Documentos/CLIENTE-SERVIDOR/TP1-Git-2020/grupo3/HolaMundo/obj/Debug/netcoreapp3.1/grupo3.csprojAssemblyReference.cache
+/home/martinejaw/Documentos/CLIENTE-SERVIDOR/TP1-Git-2020/grupo3/HolaMundo/obj/Debug/netcoreapp3.1/grupo3.csproj.CoreCompileInputs.cache
+/home/martinejaw/Documentos/CLIENTE-SERVIDOR/TP1-Git-2020/grupo3/HolaMundo/obj/Debug/netcoreapp3.1/grupo3.AssemblyInfoInputs.cache
+/home/martinejaw/Documentos/CLIENTE-SERVIDOR/TP1-Git-2020/grupo3/HolaMundo/obj/Debug/netcoreapp3.1/grupo3.AssemblyInfo.cs
+/home/martinejaw/Documentos/CLIENTE-SERVIDOR/TP1-Git-2020/grupo3/HolaMundo/obj/Debug/netcoreapp3.1/grupo3.dll
+/home/martinejaw/Documentos/CLIENTE-SERVIDOR/TP1-Git-2020/grupo3/HolaMundo/obj/Debug/netcoreapp3.1/grupo3.pdb
+/home/martinejaw/Documentos/CLIENTE-SERVIDOR/TP1-Git-2020/grupo3/HolaMundo/obj/Debug/netcoreapp3.1/grupo3.genruntimeconfig.cache
