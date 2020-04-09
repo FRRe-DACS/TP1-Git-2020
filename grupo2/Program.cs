@@ -24,6 +24,7 @@ namespace grupo2
             return mensaje;
         }
 
+        // funcion que convierte a minusculas un string dado
         public static string minusculas(string cadena){
             string salida = cadena.ToLower();
             return salida; 
