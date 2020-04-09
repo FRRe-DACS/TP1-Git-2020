@@ -24,5 +24,11 @@ namespace grupo2
             int result = x + y;
             return result;
         }
+
+        static void int Add(int x, int y) //Nicolas Zini
+        {
+            int result = x * y;
+            return result;
+        }
     }
 }
