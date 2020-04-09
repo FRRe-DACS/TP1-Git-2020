@@ -24,6 +24,14 @@ namespace grupo2
             return mensaje;
         }
 
+        static string transformarUppercase(string palabra){
+            return palabra.ToUpper();
+             
+        }
+
+
+
+   
         // funcion que convierte a minusculas un string dado
         public static string minusculas(string cadena){
             string salida = cadena.ToLower();
@@ -35,10 +43,11 @@ namespace grupo2
             return result;
         }
 
-        static void int Add(int x, int y) //Nicolas Zini
+        static int Producto(int x, int y) //Nicolas Zini
         {
             int result = x * y;
             return result;
         }
     }
+
 }
