@@ -4,13 +4,7 @@ namespace grupo2
 {
     class Program
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-            string mensaje;
-            mensaje = escribir();
-            Console.WriteLine(mensaje);
-        }
+
 
         static string escribir()
         {
@@ -19,5 +13,23 @@ namespace grupo2
             mensaje = Console.ReadLine();
             return mensaje;
         }
+
+        static string transformarUppercase(string palabra){
+            return palabra.ToUpper();
+             
+        }
+
+
+            static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+            string mensaje;
+            mensaje = escribir();
+            mensaje = transformarUppercase(mensaje);
+            Console.WriteLine(mensaje);
+        
+        }
+   
     }
+
 }
