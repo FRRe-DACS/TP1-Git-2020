@@ -19,5 +19,10 @@ namespace grupo2
             mensaje = Console.ReadLine();
             return mensaje;
         }
+        static public int Add(int x, int y)//Alejandro Nadal
+        { 
+            int result = x + y;
+            return result;
+        }
     }
 }
