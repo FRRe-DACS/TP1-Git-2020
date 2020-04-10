@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DACS\\TP1-Git-2020\\Grupo1\\Grupo1.csproj",
+      "projectUniqueName": "E:\\DACS\\augusto\\TP1-Git-2020\\Grupo1\\Grupo1.csproj",
       "projectName": "Grupo1",
-      "projectPath": "E:\\DACS\\TP1-Git-2020\\Grupo1\\Grupo1.csproj",
+      "projectPath": "E:\\DACS\\augusto\\TP1-Git-2020\\Grupo1\\Grupo1.csproj",
       "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
-      "outputPath": "E:\\DACS\\TP1-Git-2020\\Grupo1\\obj\\",
+      "outputPath": "E:\\DACS\\augusto\\TP1-Git-2020\\Grupo1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
