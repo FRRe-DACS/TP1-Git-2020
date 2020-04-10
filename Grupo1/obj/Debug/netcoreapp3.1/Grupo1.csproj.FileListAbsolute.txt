@@ -11,3 +11,16 @@ E:\DACS\TP1-Git-2020\Grupo1\obj\Debug\netcoreapp3.1\Grupo1.AssemblyInfo.cs
 E:\DACS\TP1-Git-2020\Grupo1\obj\Debug\netcoreapp3.1\Grupo1.dll
 E:\DACS\TP1-Git-2020\Grupo1\obj\Debug\netcoreapp3.1\Grupo1.pdb
 E:\DACS\TP1-Git-2020\Grupo1\obj\Debug\netcoreapp3.1\Grupo1.genruntimeconfig.cache
+C:\COMPU ANTERIOR\utn\CUARTO AÑO\Cliente-servidor\TP1\TP1-Git-2020\Grupo1\obj\Debug\netcoreapp3.1\Grupo1.csprojAssemblyReference.cache
+C:\COMPU ANTERIOR\utn\CUARTO AÑO\Cliente-servidor\TP1\TP1-Git-2020\Grupo1\obj\Debug\netcoreapp3.1\Grupo1.csproj.CoreCompileInputs.cache
+C:\COMPU ANTERIOR\utn\CUARTO AÑO\Cliente-servidor\TP1\TP1-Git-2020\Grupo1\obj\Debug\netcoreapp3.1\Grupo1.AssemblyInfoInputs.cache
+C:\COMPU ANTERIOR\utn\CUARTO AÑO\Cliente-servidor\TP1\TP1-Git-2020\Grupo1\obj\Debug\netcoreapp3.1\Grupo1.AssemblyInfo.cs
+C:\COMPU ANTERIOR\utn\CUARTO AÑO\Cliente-servidor\TP1\TP1-Git-2020\Grupo1\obj\Debug\netcoreapp3.1\Grupo1.dll
+C:\COMPU ANTERIOR\utn\CUARTO AÑO\Cliente-servidor\TP1\TP1-Git-2020\Grupo1\obj\Debug\netcoreapp3.1\Grupo1.pdb
+C:\COMPU ANTERIOR\utn\CUARTO AÑO\Cliente-servidor\TP1\TP1-Git-2020\Grupo1\bin\Debug\netcoreapp3.1\Grupo1.exe
+C:\COMPU ANTERIOR\utn\CUARTO AÑO\Cliente-servidor\TP1\TP1-Git-2020\Grupo1\bin\Debug\netcoreapp3.1\Grupo1.deps.json
+C:\COMPU ANTERIOR\utn\CUARTO AÑO\Cliente-servidor\TP1\TP1-Git-2020\Grupo1\bin\Debug\netcoreapp3.1\Grupo1.runtimeconfig.json
+C:\COMPU ANTERIOR\utn\CUARTO AÑO\Cliente-servidor\TP1\TP1-Git-2020\Grupo1\bin\Debug\netcoreapp3.1\Grupo1.runtimeconfig.dev.json
+C:\COMPU ANTERIOR\utn\CUARTO AÑO\Cliente-servidor\TP1\TP1-Git-2020\Grupo1\bin\Debug\netcoreapp3.1\Grupo1.dll
+C:\COMPU ANTERIOR\utn\CUARTO AÑO\Cliente-servidor\TP1\TP1-Git-2020\Grupo1\bin\Debug\netcoreapp3.1\Grupo1.pdb
+C:\COMPU ANTERIOR\utn\CUARTO AÑO\Cliente-servidor\TP1\TP1-Git-2020\Grupo1\obj\Debug\netcoreapp3.1\Grupo1.genruntimeconfig.cache
