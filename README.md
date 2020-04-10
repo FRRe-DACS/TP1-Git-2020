@@ -51,7 +51,7 @@ b)	En su repositorio local el usuario va a crear un va a crear una carpeta de gr
 Les dejo un link de ayuda:
 https://docs.microsoft.com/es-es/dotnet/core/tutorials/with-visual-studio-code?wt.mc_id=personal-blog-chnoring
 
-c)	Una vez creada la rama del grupo en el servidor uno de los miembros del grupo va hacer un fork de la rama. Clona el fork, va a insertar una función que imprime una entrada de pantalla en el programa de consola, commit -> push y pull request al repositorio del grupo.
+c)	Una vez creada la rama del grupo en el servidor uno de los miembros del grupo va hacer un fork de la rama. Clona el fork, va a insertar una función que imprime una entrada de pantalla en el programa de consola, commit -> push (sobre el repositorio del fork) y luego crear un pull request al repositorio del grupo a la rama del grupo.
 
 d)	Los demás miembros del grupo: Clonar el repositorio y toman la rama del grupo. A partir de la rama del grupo, crean una rama personal (gXiniciales grupo X e 2 iniciales)  donde realizar una modificación en código (insertar una función que imprima caracteres, que calcule un factorial, que imprima un mensaje en pantalla, que realice una transformación uppercase, etc) y realizar un commit y push, Ponerse de acuerdo en el grupo.
 
