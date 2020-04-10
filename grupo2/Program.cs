@@ -14,6 +14,13 @@ namespace grupo2
             string mensaje1;
             mensaje1 = minusculas("TEXTO EN MAYUSCULAS");
             Console.WriteLine(mensaje1);
+            Console.WriteLine("ingrese numero para calcular factorial");
+            int numeroFact;
+            numeroFact = int.Parse(Console.ReadLine());
+            int resultFact;
+            resultFact = Factorial(numeroFact);
+            Console.WriteLine(resultFact); 
+
         }
 
         static string escribir()
@@ -52,6 +59,14 @@ namespace grupo2
         {
             int result = x - y;
             return result;
+        }
+
+        static int Factorial(int numeroFact){
+            int i,fact =1;
+            for (i=1;i<=numeroFact;i++){
+                fact = fact *i;
+            }
+            return fact;
         }
     }
 
