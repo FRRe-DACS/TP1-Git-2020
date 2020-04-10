@@ -23,10 +23,4 @@ namespace Grupo1
         
         
     }
-<<<<<<< HEAD
 }
-=======
-}
-
-
->>>>>>> g1ND
