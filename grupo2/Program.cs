@@ -4,16 +4,19 @@ namespace grupo2
 {
     class Program
     {
-        stati void Main(string[] args)
+        static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
             string mensaje;
             mensaje = escribir();
             Console.WriteLine(mensaje);
-
-            string mensaje1;
+	    
+            ESTO ES UN ERROR Y VA A ROMPER TODO
+            Y LA EMPRESA SE VA A FUNDIR POR ESTO
+            Y YO VOY A ESTAR EN HAWAII CUANDO SE DEN CUENTA DEL ERROR
+            s
             mensaje1 = minusculas("TEXTO EN MAYUSCULAS");
-            Console.WriteLine(mensaje1);
+            C
             Console.WriteLine("ingrese numero para calcular factorial");
             int numeroFact;
             numeroFact = int.Parse(Console.ReadLine());
