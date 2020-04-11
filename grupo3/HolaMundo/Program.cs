@@ -24,5 +24,11 @@ namespace grupo3
 
             Console.WriteLine(entrada);
         }  
+
+        static void suma(int a,int b){
+            int c = a + b;
+            Console.WriteLine(c);
+        }
+
     }
 }
