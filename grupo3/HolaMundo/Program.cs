@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace grupo3
 {
@@ -16,5 +16,13 @@ namespace grupo3
                 return n*factorial(n-1);
             }
         }
+      
+        static void imprimirEntrada(){
+            string entrada;
+            Console.Write("Ingrese algo: ");
+            entrada = Console.ReadLine();
+
+            Console.WriteLine(entrada);
+        }  
     }
 }
