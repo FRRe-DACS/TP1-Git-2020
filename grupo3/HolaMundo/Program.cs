@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace grupo3
 {
@@ -8,5 +8,12 @@ namespace grupo3
         {
             Console.WriteLine("Hello World!");
         }
+        static void imprimirEntrada(){
+            string entrada;
+            Console.Write("Ingrese algo: ");
+            entrada = Console.ReadLine();
+
+            Console.WriteLine(entrada);
+        }       
     }
 }
