@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\facuc\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\facuc\\.nuget\\packages"
+      "/home/facu/.dotnet/store/|arch|/|tfm|",
+      "/home/facu/.nuget/packages"
     ]
   }
 }

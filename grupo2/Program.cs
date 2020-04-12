@@ -10,19 +10,16 @@ namespace grupo2
             string mensaje;
             mensaje = escribir();
             Console.WriteLine(mensaje);
-	    
-            ESTO ES UN ERROR Y VA A ROMPER TODO
-            Y LA EMPRESA SE VA A FUNDIR POR ESTO
-            Y YO VOY A ESTAR EN HAWAII CUANDO SE DEN CUENTA DEL ERROR
-            s
+	  
             mensaje1 = minusculas("TEXTO EN MAYUSCULAS");
-            C
+
             Console.WriteLine("ingrese numero para calcular factorial");
             int numeroFact;
             numeroFact = int.Parse(Console.ReadLine());
             int resultFact;
             resultFact = Factorial(numeroFact);
             Console.WriteLine(resultFact); 
+            Console.WriteLine(mensaje1);
 
         }
 
@@ -62,14 +59,6 @@ namespace grupo2
         {
             int result = x - y;
             return result;
-        }
-
-        static int Factorial(int numeroFact){
-            int i,fact =1;
-            for (i=1;i<=numeroFact;i++){
-                fact = fact *i;
-            }
-            return fact;
         }
     }
 
