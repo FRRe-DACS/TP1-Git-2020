@@ -36,5 +36,8 @@ namespace grupo3
             Console.WriteLine(c);
         }
 
+        static void resta(int a,int b){
+            Console.WriteLine(a-b);
+        }
     }
 }
