@@ -13,6 +13,7 @@ namespace grupo2
 	  
             mensaje1 = minusculas("TEXTO EN MAYUSCULAS");
 <<<<<<< HEAD
+<<<<<<< HEAD
 
             Console.WriteLine("ingrese numero para calcular factorial");
             int numeroFact;
@@ -22,6 +23,9 @@ namespace grupo2
             Console.WriteLine(resultFact); 
             Console.WriteLine(mensaje1);
 
+=======
+            Console.WriteLine(mensaje1);
+>>>>>>> parent of 37bdbe2... Merge pull request #13 from FRRe-DACS/G2FC
 =======
             Console.WriteLine(mensaje1);
 >>>>>>> parent of 37bdbe2... Merge pull request #13 from FRRe-DACS/G2FC
