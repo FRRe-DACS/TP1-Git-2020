@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\COMPU ANTERIOR\\utn\\CUARTO AÑO\\Cliente-servidor\\TP1\\TP1-Git-2020\\Grupo1\\Grupo1.csproj": {}
+    "E:\\DACS\\augusto\\TP1-Git-2020\\Grupo1\\Grupo1.csproj": {}
   },
   "projects": {
-    "C:\\COMPU ANTERIOR\\utn\\CUARTO AÑO\\Cliente-servidor\\TP1\\TP1-Git-2020\\Grupo1\\Grupo1.csproj": {
+    "E:\\DACS\\augusto\\TP1-Git-2020\\Grupo1\\Grupo1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\COMPU ANTERIOR\\utn\\CUARTO AÑO\\Cliente-servidor\\TP1\\TP1-Git-2020\\Grupo1\\Grupo1.csproj",
+        "projectUniqueName": "E:\\DACS\\augusto\\TP1-Git-2020\\Grupo1\\Grupo1.csproj",
         "projectName": "Grupo1",
-        "projectPath": "C:\\COMPU ANTERIOR\\utn\\CUARTO AÑO\\Cliente-servidor\\TP1\\TP1-Git-2020\\Grupo1\\Grupo1.csproj",
-        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-        "outputPath": "C:\\COMPU ANTERIOR\\utn\\CUARTO AÑO\\Cliente-servidor\\TP1\\TP1-Git-2020\\Grupo1\\obj\\",
+        "projectPath": "E:\\DACS\\augusto\\TP1-Git-2020\\Grupo1\\Grupo1.csproj",
+        "packagesPath": "C:\\Users\\Carlos\\.nuget\\packages\\",
+        "outputPath": "E:\\DACS\\augusto\\TP1-Git-2020\\Grupo1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Carlos\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
