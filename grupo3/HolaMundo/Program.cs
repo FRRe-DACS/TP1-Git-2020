@@ -22,7 +22,9 @@ namespace grupo3
                 return n*factorial(n-1);
             }
         }
-      
+
+        Esto es un error!
+
         static void imprimirEntrada(){
             string entrada;
             Console.Write("Ingrese algo: ");
