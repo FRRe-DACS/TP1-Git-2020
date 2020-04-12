@@ -1,14 +1,20 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     // See https://go.microsoft.com/fwlink/?LinkId=733558
     // for the documentation about the tasks.json format
 >>>>>>> g1ND
+=======
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+>>>>>>> g1SR
     "version": "2.0.0",
     "tasks": [
         {
             "label": "build",
             "command": "dotnet",
+<<<<<<< HEAD
 <<<<<<< HEAD
             "type": "process",
             "args": [
@@ -43,6 +49,8 @@
                 "/consoleloggerparameters:NoSummary"
             ],
 =======
+=======
+>>>>>>> g1SR
             "type": "shell",
             "args": [
                 "build",
@@ -55,7 +63,10 @@
             "presentation": {
                 "reveal": "silent"
             },
+<<<<<<< HEAD
 >>>>>>> g1ND
+=======
+>>>>>>> g1SR
             "problemMatcher": "$msCompile"
         }
     ]
