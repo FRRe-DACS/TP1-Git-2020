@@ -1,0 +1,13 @@
+/home/miguel/Proyectos/DACS-G4/TP1-Git-2020/Grupo4/bin/Debug/netcoreapp3.1/Grupo4
+/home/miguel/Proyectos/DACS-G4/TP1-Git-2020/Grupo4/bin/Debug/netcoreapp3.1/Grupo4.deps.json
+/home/miguel/Proyectos/DACS-G4/TP1-Git-2020/Grupo4/bin/Debug/netcoreapp3.1/Grupo4.runtimeconfig.json
+/home/miguel/Proyectos/DACS-G4/TP1-Git-2020/Grupo4/bin/Debug/netcoreapp3.1/Grupo4.runtimeconfig.dev.json
+/home/miguel/Proyectos/DACS-G4/TP1-Git-2020/Grupo4/bin/Debug/netcoreapp3.1/Grupo4.dll
+/home/miguel/Proyectos/DACS-G4/TP1-Git-2020/Grupo4/bin/Debug/netcoreapp3.1/Grupo4.pdb
+/home/miguel/Proyectos/DACS-G4/TP1-Git-2020/Grupo4/obj/Debug/netcoreapp3.1/Grupo4.csprojAssemblyReference.cache
+/home/miguel/Proyectos/DACS-G4/TP1-Git-2020/Grupo4/obj/Debug/netcoreapp3.1/Grupo4.csproj.CoreCompileInputs.cache
+/home/miguel/Proyectos/DACS-G4/TP1-Git-2020/Grupo4/obj/Debug/netcoreapp3.1/Grupo4.AssemblyInfoInputs.cache
+/home/miguel/Proyectos/DACS-G4/TP1-Git-2020/Grupo4/obj/Debug/netcoreapp3.1/Grupo4.AssemblyInfo.cs
+/home/miguel/Proyectos/DACS-G4/TP1-Git-2020/Grupo4/obj/Debug/netcoreapp3.1/Grupo4.dll
+/home/miguel/Proyectos/DACS-G4/TP1-Git-2020/Grupo4/obj/Debug/netcoreapp3.1/Grupo4.pdb
+/home/miguel/Proyectos/DACS-G4/TP1-Git-2020/Grupo4/obj/Debug/netcoreapp3.1/Grupo4.genruntimeconfig.cache
