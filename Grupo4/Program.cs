@@ -16,7 +16,10 @@ namespace Grupo4
 
             Console.Write("\nIngrese un número para calcular el factorial: ");
             numero = int.Parse(Console.ReadLine());
-            Console.Write("\nEl factorial del numero es: " + factorial(numero));
+            Console.WriteLine("\nEl factorial del numero es: " + factorial(numero));
+
+            Console.Write(" \nEsta es la suma de el número dado más su factorial: ");
+            Console.WriteLine(" \nLa suma da: " + suma(numero,factorial(numero)));
 
         }
 
@@ -51,5 +54,16 @@ namespace Grupo4
             }
             return n;
         }
+
+         /*
+            Función sumar numero mas su factorial
+            Autor: Andrik Ivan
+        */
+        static int suma(int n, int m)
+        {
+            n=n+m;
+            return n;
+        }
+
     }
 }
