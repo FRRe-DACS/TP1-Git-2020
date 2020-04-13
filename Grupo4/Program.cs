@@ -6,10 +6,17 @@ namespace Grupo4
     {
         static void Main(string[] args)
         {
+            
             Console.WriteLine("Somos el grupo 4");
             
             string mayus = uppercase("test de la funcion uppercase");
             Console.WriteLine(mayus);
+
+            int numero;
+
+            Console.Write("\nIngrese un número para calcular el factorial: ");
+            numero = int.Parse(Console.ReadLine());
+            Console.Write("\nEl factorial del numero es: " + factorial(numero));
 
         }
 
@@ -30,6 +37,19 @@ namespace Grupo4
                 }
             }
             return result;
+        }
+
+        /*
+            Función factorial
+            Autor: Montero Facundo
+        */
+        static int factorial(int n)
+        {
+            if(n>1)
+            {
+                n = n * factorial(n-1);
+            }
+            return n;
         }
     }
 }
