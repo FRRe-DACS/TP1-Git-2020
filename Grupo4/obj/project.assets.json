@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Facu\\UTN\\Apuntes\\Cuarto año\\Cliente-Servidor\\Practica\\TPI\\TP1-Git-2020\\Grupo4\\Grupo4.csproj",
+      "projectUniqueName": "C:\\Facu\\UTN\\Apuntes\\Cuarto año\\Cliente-Servidor\\Practica\\TP1-Git-2020\\Grupo4\\Grupo4.csproj",
       "projectName": "Grupo4",
-      "projectPath": "C:\\Facu\\UTN\\Apuntes\\Cuarto año\\Cliente-Servidor\\Practica\\TPI\\TP1-Git-2020\\Grupo4\\Grupo4.csproj",
+      "projectPath": "C:\\Facu\\UTN\\Apuntes\\Cuarto año\\Cliente-Servidor\\Practica\\TP1-Git-2020\\Grupo4\\Grupo4.csproj",
       "packagesPath": "C:\\Users\\fmccs\\.nuget\\packages\\",
-      "outputPath": "C:\\Facu\\UTN\\Apuntes\\Cuarto año\\Cliente-Servidor\\Practica\\TPI\\TP1-Git-2020\\Grupo4\\obj\\",
+      "outputPath": "C:\\Facu\\UTN\\Apuntes\\Cuarto año\\Cliente-Servidor\\Practica\\TP1-Git-2020\\Grupo4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fmccs\\AppData\\Roaming\\NuGet\\NuGet.Config",
