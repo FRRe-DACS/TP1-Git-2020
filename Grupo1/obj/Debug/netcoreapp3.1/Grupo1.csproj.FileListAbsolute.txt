@@ -1,0 +1,13 @@
+E:\DACS\TP1-Git-2020\Grupo1\bin\Debug\netcoreapp3.1\Grupo1.exe
+E:\DACS\TP1-Git-2020\Grupo1\bin\Debug\netcoreapp3.1\Grupo1.deps.json
+E:\DACS\TP1-Git-2020\Grupo1\bin\Debug\netcoreapp3.1\Grupo1.runtimeconfig.json
+E:\DACS\TP1-Git-2020\Grupo1\bin\Debug\netcoreapp3.1\Grupo1.runtimeconfig.dev.json
+E:\DACS\TP1-Git-2020\Grupo1\bin\Debug\netcoreapp3.1\Grupo1.dll
+E:\DACS\TP1-Git-2020\Grupo1\bin\Debug\netcoreapp3.1\Grupo1.pdb
+E:\DACS\TP1-Git-2020\Grupo1\obj\Debug\netcoreapp3.1\Grupo1.csprojAssemblyReference.cache
+E:\DACS\TP1-Git-2020\Grupo1\obj\Debug\netcoreapp3.1\Grupo1.csproj.CoreCompileInputs.cache
+E:\DACS\TP1-Git-2020\Grupo1\obj\Debug\netcoreapp3.1\Grupo1.AssemblyInfoInputs.cache
+E:\DACS\TP1-Git-2020\Grupo1\obj\Debug\netcoreapp3.1\Grupo1.AssemblyInfo.cs
+E:\DACS\TP1-Git-2020\Grupo1\obj\Debug\netcoreapp3.1\Grupo1.dll
+E:\DACS\TP1-Git-2020\Grupo1\obj\Debug\netcoreapp3.1\Grupo1.pdb
+E:\DACS\TP1-Git-2020\Grupo1\obj\Debug\netcoreapp3.1\Grupo1.genruntimeconfig.cache
