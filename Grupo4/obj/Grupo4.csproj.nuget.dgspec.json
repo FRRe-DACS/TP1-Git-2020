@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/miguel/Proyectos/DACS-G4/TP1-Git-2020/Grupo4/Grupo4.csproj": {}
+    "C:\\Facu\\UTN\\Apuntes\\Cuarto año\\Cliente-Servidor\\Practica\\TP1-Git-2020\\Grupo4\\Grupo4.csproj": {}
   },
   "projects": {
-    "/home/miguel/Proyectos/DACS-G4/TP1-Git-2020/Grupo4/Grupo4.csproj": {
+    "C:\\Facu\\UTN\\Apuntes\\Cuarto año\\Cliente-Servidor\\Practica\\TP1-Git-2020\\Grupo4\\Grupo4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/miguel/Proyectos/DACS-G4/TP1-Git-2020/Grupo4/Grupo4.csproj",
+        "projectUniqueName": "C:\\Facu\\UTN\\Apuntes\\Cuarto año\\Cliente-Servidor\\Practica\\TP1-Git-2020\\Grupo4\\Grupo4.csproj",
         "projectName": "Grupo4",
-        "projectPath": "/home/miguel/Proyectos/DACS-G4/TP1-Git-2020/Grupo4/Grupo4.csproj",
-        "packagesPath": "/home/miguel/.nuget/packages/",
-        "outputPath": "/home/miguel/Proyectos/DACS-G4/TP1-Git-2020/Grupo4/obj/",
+        "projectPath": "C:\\Facu\\UTN\\Apuntes\\Cuarto año\\Cliente-Servidor\\Practica\\TP1-Git-2020\\Grupo4\\Grupo4.csproj",
+        "packagesPath": "C:\\Users\\fmccs\\.nuget\\packages\\",
+        "outputPath": "C:\\Facu\\UTN\\Apuntes\\Cuarto año\\Cliente-Servidor\\Practica\\TP1-Git-2020\\Grupo4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/miguel/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\fmccs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -50,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

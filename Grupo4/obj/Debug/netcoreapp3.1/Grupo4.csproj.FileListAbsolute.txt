@@ -11,3 +11,16 @@
 /home/miguel/Proyectos/DACS-G4/TP1-Git-2020/Grupo4/obj/Debug/netcoreapp3.1/Grupo4.dll
 /home/miguel/Proyectos/DACS-G4/TP1-Git-2020/Grupo4/obj/Debug/netcoreapp3.1/Grupo4.pdb
 /home/miguel/Proyectos/DACS-G4/TP1-Git-2020/Grupo4/obj/Debug/netcoreapp3.1/Grupo4.genruntimeconfig.cache
+C:\Facu\UTN\Apuntes\Cuarto año\Cliente-Servidor\Practica\TP1-Git-2020\Grupo4\bin\Debug\netcoreapp3.1\Grupo4.exe
+C:\Facu\UTN\Apuntes\Cuarto año\Cliente-Servidor\Practica\TP1-Git-2020\Grupo4\bin\Debug\netcoreapp3.1\Grupo4.deps.json
+C:\Facu\UTN\Apuntes\Cuarto año\Cliente-Servidor\Practica\TP1-Git-2020\Grupo4\bin\Debug\netcoreapp3.1\Grupo4.runtimeconfig.json
+C:\Facu\UTN\Apuntes\Cuarto año\Cliente-Servidor\Practica\TP1-Git-2020\Grupo4\bin\Debug\netcoreapp3.1\Grupo4.runtimeconfig.dev.json
+C:\Facu\UTN\Apuntes\Cuarto año\Cliente-Servidor\Practica\TP1-Git-2020\Grupo4\bin\Debug\netcoreapp3.1\Grupo4.dll
+C:\Facu\UTN\Apuntes\Cuarto año\Cliente-Servidor\Practica\TP1-Git-2020\Grupo4\bin\Debug\netcoreapp3.1\Grupo4.pdb
+C:\Facu\UTN\Apuntes\Cuarto año\Cliente-Servidor\Practica\TP1-Git-2020\Grupo4\obj\Debug\netcoreapp3.1\Grupo4.csprojAssemblyReference.cache
+C:\Facu\UTN\Apuntes\Cuarto año\Cliente-Servidor\Practica\TP1-Git-2020\Grupo4\obj\Debug\netcoreapp3.1\Grupo4.csproj.CoreCompileInputs.cache
+C:\Facu\UTN\Apuntes\Cuarto año\Cliente-Servidor\Practica\TP1-Git-2020\Grupo4\obj\Debug\netcoreapp3.1\Grupo4.AssemblyInfoInputs.cache
+C:\Facu\UTN\Apuntes\Cuarto año\Cliente-Servidor\Practica\TP1-Git-2020\Grupo4\obj\Debug\netcoreapp3.1\Grupo4.AssemblyInfo.cs
+C:\Facu\UTN\Apuntes\Cuarto año\Cliente-Servidor\Practica\TP1-Git-2020\Grupo4\obj\Debug\netcoreapp3.1\Grupo4.dll
+C:\Facu\UTN\Apuntes\Cuarto año\Cliente-Servidor\Practica\TP1-Git-2020\Grupo4\obj\Debug\netcoreapp3.1\Grupo4.pdb
+C:\Facu\UTN\Apuntes\Cuarto año\Cliente-Servidor\Practica\TP1-Git-2020\Grupo4\obj\Debug\netcoreapp3.1\Grupo4.genruntimeconfig.cache
