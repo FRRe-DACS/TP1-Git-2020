@@ -21,11 +21,11 @@ namespace Grupo1
         static void Main(string[] args)
         {
             var c1 = new Carlos();
-            Console.WriteLine($"Hello, {c1.ReturnMessage()}");
-            Console.WriteLine("Batman es el mejor");
+            Console.WriteLine($"#####, {c1.ReturnMessage()}");
+            Console.WriteLine("###########");
             int result = SumarNums(10, 5);
             Console.WriteLine(result);
-            string Nombre = Funcion("selene");
+            string Nombre = Funcion("###########");
             Console.WriteLine(Nombre);
         }
         
