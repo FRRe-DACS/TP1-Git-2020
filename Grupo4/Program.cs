@@ -25,7 +25,7 @@ namespace Grupo4
            FUNCION PARA TRANSFORMAR TEXTO EN MAYUSCULAS
            AUTOR: MIGUEL BRITOS
         */
-        static string uppercase(string palabra)
+        
         {
             string input = palabra;
             string result = string.Empty;
