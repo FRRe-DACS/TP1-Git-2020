@@ -4,7 +4,7 @@ namespace Grupo4
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main( string[] args )
         {
             
             Console.WriteLine("Somos el grupo 4");
@@ -18,7 +18,7 @@ namespace Grupo4
             numero = int.Parse(Console.ReadLine());
             Console.WriteLine("\nEl factorial del numero es: " + factorial(numero));
 
-            Console.Write(" \nEsta es la suma de el número dado más su factorial: ");
+            Console.WriteLine(" \nEsta es la suma de el número dado más su factorial: ");
             Console.WriteLine(" \nLa suma da: " + suma(numero,factorial(numero)));
 
         }
