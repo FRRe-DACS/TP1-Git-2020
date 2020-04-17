@@ -21,6 +21,9 @@ namespace Grupo4
             Console.WriteLine(" \nEsta es la suma de el número dado más su factorial: ");
             Console.WriteLine(" \nLa suma da: " + suma(numero,factorial(numero)));
 
+            Console.Write("\nIngrese un número conocer si es par o impar: ");
+            numP = int.Parse(Console.ReadLine());
+            Console.WriteLine("\nEl número " + numP + " es: " + parimpar(numP));
         }
 
         
@@ -63,6 +66,19 @@ namespace Grupo4
         {
             n=n+m;
             return n;
+        }
+
+        /*
+           Función para conocer si un número es par o impar
+           Autor: Horacio Soto
+        */
+        static string parimpar(int numP)
+        {
+            string result = 'impar';
+            if(numP%2==0){
+                result = 'par';
+            }
+            return result;
         }
     }
 }
